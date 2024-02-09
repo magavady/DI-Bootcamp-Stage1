@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(90, 192 ,255);
+}
+ul{
+    list-style: none;
+    text-align: center;
+}li{
+    display: block;
+}
+li:first-letter{
+    font-size: 24px;
+}

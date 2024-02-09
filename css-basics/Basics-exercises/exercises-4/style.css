@@ -1,0 +1,11 @@
+.proportioned {
+    width: 100px;
+}
+.distorted{
+    width: 70px;
+    height: 130px;
+}
+.original{
+    width: 120px;
+    height: 120px;
+}
