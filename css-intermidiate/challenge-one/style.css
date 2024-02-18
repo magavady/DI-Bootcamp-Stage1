@@ -1,0 +1,30 @@
+#nav{
+    display:inline-block;
+    height: 450px;
+    margin-left: 70px;
+background-color: rgba(123, 190, 245, 0.904);
+position:absolute;
+margin-top: 30px;
+}
+ #content{
+    display: inline-block;
+    vertical-align: top;
+    width: 450px;
+    background-color: rgb(78, 108, 163);
+    margin-bottom: 60px;
+    height: 450px;
+    padding-left: 200px;
+    margin-left: 70px;
+    margin-top: 30px;
+ }
+
+#wrap{
+    background-color: rgb(52, 72, 109);
+}
+footer{
+    clear: both;
+    text-align: bottom;  
+    background-color: rgb(69, 97, 150);
+
+}
+

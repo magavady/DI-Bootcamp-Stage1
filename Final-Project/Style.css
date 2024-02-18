@@ -1,0 +1,48 @@
+.index{
+    background-image: url(joseph.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 800px;
+}.link{
+    background-color: rgb(37, 144, 206);
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
+a{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+#header{
+   font-weight: bold;
+   font-style: italic;
+   text-align: center;
+   font-size: 40px;
+
+}
+.bio{
+    background-color: rgb(180, 207, 241);
+}
+#intro{
+    font-size: 25px;
+    font-style: italic;
+}
+.kaya{
+    width: 100px;
+    height: 100px;
+}
+.career{
+    background-color: rgb(193, 148, 235);
+    
+}
+.Topize{
+    font-size: 20px;
+}
+.cheading{
+    text-align: center;
+    
+}
+.kayavideo{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
