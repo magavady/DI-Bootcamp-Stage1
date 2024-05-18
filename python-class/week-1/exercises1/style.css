@@ -1,0 +1,53 @@
+.highlight {
+    background-color: yellow;
+}
+#catsenses {
+    text-decoration: underline;
+}
+.media {
+    text-align: center;
+}
+.kitten {
+    width:500px;
+    height: 300px;
+    float: center;
+    margin-left: 500px ;
+
+}
+.title {
+    color: red;
+    border:1px solid red ;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+.secondline {
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    
+}
+.character {
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.behavior{
+
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.definition{ 
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    font-size: 15px;
+
+}
+.definition2 {
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+}
+.lion {
+    width: 1000px;
+    float:left;
+}
